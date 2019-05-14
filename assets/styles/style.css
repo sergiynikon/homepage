@@ -1,3 +1,11 @@
+main {
+    background: bisque;
+}
+
+a {
+    color: crimson;
+}
+
 .avatar {
     filter: grayscale(100%);
     vertical-align: middle;
