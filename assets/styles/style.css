@@ -52,7 +52,9 @@ span.skill {
     font-weight: bold;
 }
 
-span.skill-level {
+span.skill-level, span.language-level{
     font-style: italic;
     text-transform: uppercase;
 }
+
+
